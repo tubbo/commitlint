@@ -2545,9 +2545,9 @@
     "@types/node" "*"
 
 "@types/git-raw-commits@^2.0.0":
-  version "2.0.0"
-  resolved "https://packages.atlassian.com/api/npm/npm-remote/@types/git-raw-commits/-/git-raw-commits-2.0.0.tgz#157e9e4709db0748fb1aa623f8927ddd4864bac6"
-  integrity sha1-FX6eRwnbB0j7GqYj+JJ93UhkusY=
+  version "2.0.1"
+  resolved "https://registry.npmjs.org/@types/git-raw-commits/-/git-raw-commits-2.0.1.tgz#94bd91f6cfbc7174a47545424559de229998adc1"
+  integrity sha512-vE2lbXxqJ0AqMDoP4N6d+WVfbcBla9+z8IL6e+37JNQIwYZCYY0z3J7hdpY8D/VGwFZ0yIYQLcqk8eCnfXsaEg==
   dependencies:
     "@types/node" "*"
 
